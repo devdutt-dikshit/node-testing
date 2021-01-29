@@ -13,6 +13,7 @@ POST /user/register    => It'll return token
 With Token we can add item and get list of all items
 
 GET /list     => It'll return list of items
+
 POST /add-item   => added item details
 
 
